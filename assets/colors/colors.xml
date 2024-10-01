@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+  <color name="c97ABFF">#FF97ABFF</color>
+  <color name="c123597">#FF123597</color>
+
+  <color name="cA2B2E7">#FFA2B2E7</color>
+  <color name="c5E78CE">#FF5E78CE</color>
+
+  <color name="allPrimaryColor">#FFF9500A</color>
+  <color name="cFEFFFE">#FFFEFFFE</color>
+  <color name="cDFDFDF">#FFDFDFDF</color>
+  <color name="c47B54C">#FF47B54C</color>
+  <color name="c0A0909">#FF0A0909</color>
+  <color name="c000000">#FF000000</color>
+  <color name="cF4F4F4">#FFF4F4F4</color>
+  <color name="cFFFFFF">#FFFFFFFF</color>
+  <color name="c231F20">#FF231F20</color>
+  <color name="cEB001B">#FFEB001B</color>
+  <color name="cF79E1B">#FFF79E1B</color>
+  <color name="cFF5F00">#FFFF5F00</color>
+  <color name="c0B0A0A">#FF0B0A0A</color>
+  <color name="cABABAB">#FFABABAB</color>
+  <color name="cF45310">#FFF45310</color>
+  <color name="cCACACA">#FFCACACA</color>
+  <color name="cFFC6AE">#FFFFC6AE</color>
+  <color name="c969696">#FF969696</color>
+  <color name="cC9C9C9">#FFC9C9C9</color>
+  <color name="cEEEEEE">#FFEEEEEE</color>
+  <color name="cF0F0F0">#FFF0F0F0</color>
+  <color name="cFF0000">#FFFF0000</color>
+  <color name="c7F7E7E">#FF7F7E7E</color>
+  <color name="c212121">#FF212121</color>
+  <color name="cEDBB43">#FFEDBB43</color>
+  <color name="c2C303E">#FF2C303E</color>
+  <color name="c9B9B9B">#FF9B9B9B</color>
+  <color name="cFF9500A">#FFF9500A</color>
+  <color name="cFD9D9D9">#FFD9D9D9</color>
+
+  <color name="scaffoldColor">#FFFBFBFB</color>
+  <color name="primaryColor">#FF4D3E39</color>
+  <color name="activeColor">#FF326144</color>
+  <color name="debitHigheColor">#FFB7242A</color>
+  <color name="inactiveColor">#FFEDBB43</color>
+  <color name="linkColor">#FFF0E0C1</color>
+  <color name="loginBackground">#FFF4D68E</color>
+  <color name="warningColor">#FFB7242A</color>
+  <color name="ratingColor">#FFE65934</color>
+  <color name="bgColor">#FFFBFBFB</color>
+  <color name="headLine1Color">#FF4A4A4A</color>
+  <color name="headLine2Color">#FF131313</color>
+  <color name="disabledColor">#FF9B9B9B</color>
+  <color name="unselectedButtonTextColor">#FF2C303E</color>
+  <color name="creditHighliteColor">#FF709B72</color>
+  <color name="penIconColor">#FF00A7FF</color>
+  <color name="alertButtonColor">#FFFEFFFB</color>
+  <color name="white">#FFFFFFFF</color>
+  <color name="borderColor">#FFDDDDDD</color>
+  <color name="secondaryColor">#FF444242</color>
+  <color name="shadowText">#FFF1F2F7</color>
+  <color name="shadowText2">#FFB0B0B0</color>
+</colors>
