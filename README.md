@@ -36,7 +36,8 @@ Experience Weather Application, designed as an assessment project for Steadfast 
 | <img src="assets/images/home_5.jpg" height="400" width="auto"> | <img src="assets/images/home_6.jpg" height="400" width="auto"> | <img src="assets/images/home_7.jpg" height="400" width="auto"> | 
 
 ## Video
-https://github.com/user-attachments/assets/810a54d3-037b-4efc-bb28-d5f2844273e5
+
+https://github.com/user-attachments/assets/504fca1f-d3d4-4bfa-9b8e-59b9a69a6a83
 
 ## OS Support
 At present, we officially aim to support the last two versions of the following operating systems:
